@@ -1,7 +1,7 @@
 # Datascience Nigeria Bootcamp
-Codes from my 2017 Data Science Nigeria Bootcamp
+Codes from my 2017 Data Science Nigeria Bootcamp on introduction to data science
 
-#1. Introduction to Machine Learning
+#1. Introduction to Data Science
 Data cleaning
 Explorative Statistics
 Feature Engineering
